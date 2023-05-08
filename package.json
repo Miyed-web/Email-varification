@@ -1,0 +1,24 @@
+{
+  "name": "node-email-verification",
+  "version": "1.0.0",
+  "description": "Verify a user's email address by sending them an email with a verification code/OTP!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodemailer",
+    "verify",
+    "verification",
+    "mail",
+    "email",
+    "otp",
+    "code"
+  ],
+  "author": "LuisAFK",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.8.0",
+    "nodemailer-direct-transport": "^3.3.2"
+  }
+}
